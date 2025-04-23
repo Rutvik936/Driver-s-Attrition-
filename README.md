@@ -1,6 +1,12 @@
 # Driver Attrition Prediction (Ola, Uber, Rapido)
 
-This is a web-based machine learning application designed to predict and analyze driver attrition for ride-sharing platforms like Ola, Uber, and Rapido. The project uses real-world data, performs preprocessing, visualizations, and predictive modeling using Random Forest and Gradient Boosting.
+Driver attrition is a major challenge in the ride-hailing industry, affecting efficiency and growth. 
+Ola faces high churn rates as drivers switch to competitors like Uber, leading to service disruptions and increased costs. 
+This study applies data science to predict attrition using historical driver data.
+ Machine learning techniques, including Bagging and Boosting, are used with preprocessing steps like KNN imputation and feature engineering. 
+The goal is to develop a predictive model that helps Ola retain drivers and optimize operations.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔍 Features
 
@@ -13,6 +19,7 @@ This is a web-based machine learning application designed to predict and analyze
   - Data comparison
   - Prediction results
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## ⚙️ Technologies Used
 
@@ -23,16 +30,20 @@ This is a web-based machine learning application designed to predict and analyze
 - Matplotlib, Seaborn
 - HTML, CSS
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 🧠 Models Used
 
 - **Random Forest Classifier** – Ensemble model for robust prediction
 - **Gradient Boosting Classifier** – Boosted trees for improved accuracy
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 **Run the Flask App**
 
 **command:**  python app4.py
+
 **Visit** http://127.0.0.1:5000/ in your browser.
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📁 Project Structure
 Project Structure:
 
