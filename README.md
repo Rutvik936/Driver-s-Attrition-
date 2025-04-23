@@ -44,6 +44,7 @@ The goal is to develop a predictive model that helps Ola retain drivers and opti
 **Visit** http://127.0.0.1:5000/ in your browser.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 ## 📁 Project Structure
 Project Structure:
 
@@ -66,4 +67,6 @@ driver-attrition-prediction/
 ├── uber.csv                   # Uber drivers dataset
 ├── rapido.csv                 # Rapido drivers dataset
 ├── README.md                  # Project documentation
+
+---
 
