@@ -41,6 +41,9 @@ The goal is to build a predictive model that helps Ola retain drivers and optimi
 python app4.py
 Visit: http://127.0.0.1:5000/ in your browser.
 
+```
+## 📁 Project Structure
+```bash
 driver-attrition-prediction/
 │
 ├── data/                      # Raw/processed data (optional)
