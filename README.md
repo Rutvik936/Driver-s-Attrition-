@@ -1,4 +1,5 @@
-# 🚖 Driver Attrition Prediction (Ola, Uber, Rapido)
+# 🚖 Driver Churn Prediction in Ride-Hailing Platforms (Ola, Uber, Rapido)
+
 
 Driver attrition is a major challenge in the ride-hailing industry, affecting efficiency and growth.  
 Ola faces high churn rates as drivers switch to competitors like Uber, leading to service disruptions and increased costs.  
